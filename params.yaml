@@ -1,0 +1,9 @@
+eval:
+  model: llama3.2
+  prompt_style: zero_shot
+  temperature: 0.0
+  n_questions: 100
+
+score:
+  method: semantic
+  threshold: 0.75

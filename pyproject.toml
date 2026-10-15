@@ -1,0 +1,20 @@
+[project]
+name = "llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dagshub>=0.7.3",
+    "datasets>=5.1.0",
+    "dvc>=3.67.1",
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "mlflow>=3.17.1",
+    "ollama>=0.6.3",
+    "pandas>=3.0.6",
+    "pyyaml>=6.0.3",
+    "requests>=2.34.2",
+    "rich>=15.0.0",
+    "sentence-transformers>=6.1.0",
+]

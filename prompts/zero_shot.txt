@@ -1,0 +1,3 @@
+Answer this medical question accurately and concisely:
+
+{question}

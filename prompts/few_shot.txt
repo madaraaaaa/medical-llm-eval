@@ -1,0 +1,14 @@
+Answer medical questions like these examples:
+
+Q: What is normal blood pressure?
+A: 120/80 mmHg is considered normal for adults.
+
+Q: What causes Type 2 diabetes?
+A: Insulin resistance combined with insufficient insulin production.
+
+Q: What are the side effects of aspirin?
+A: Common side effects include stomach irritation, nausea, and increased bleeding risk.
+
+Now answer this:
+Q: {question}
+A:
